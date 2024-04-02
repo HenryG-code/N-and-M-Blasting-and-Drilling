@@ -421,8 +421,8 @@
 
   footer .footer-content {
     display: flex;
-    align-items:flex-end;
     margin-left: 10px;
+    min-width: 100%;
   }
 
   #footer-text{
@@ -459,24 +459,6 @@
   border-radius: 5px;
   }
 
-  .mini-menu {
-    text-align: center;
-    margin-top: 10px;
-  }
-  
-  .mini-menu ul {
-    list-style: none;
-  }
-  
-  .mini-menu li {
-    display: inline;
-    margin-right: 15px;
-  }
-  
-  .mini-menu a {
-    color: rgb(3, 3, 3);
-    text-decoration: none;
-  }
   
  
  
