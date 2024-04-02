@@ -1,0 +1,40 @@
+
+/* Adjust header size for smaller screens */
+#header1 {
+    font-size: 24px; /* Adjust the font size as needed */
+}
+
+/* Adjust main content margins and padding for smaller screens */
+.main-content {
+    margin: 10px; /* Adjust margins as needed */
+    padding: 20px; /* Adjust padding as needed */
+}
+
+/* Modify navigation menu for smaller screens */
+.main-nav {
+    margin-top: 10px; /* Adjust margins as needed */
+    margin-left: 10px; /* Adjust margins as needed */
+}
+
+/* Make navigation links more compact for smaller screens */
+.main-nav a {
+    padding: 5px 10px; /* Adjust padding as needed */
+    margin: 0 5px; /* Adjust margins as needed */
+}
+
+/* Adjust footer styles for smaller screens */
+footer {
+    padding: 5px; 
+    position: static; 
+    width: 100%;
+}
+
+/* Adjust footer logo size for smaller screens */
+.bottom-logo {
+    max-width: 100px; /* Adjust the maximum width as needed */
+}
+
+/* Make footer navigation links more compact for smaller screens */
+.mini-menu a {
+    margin-right: 10px; /* Adjust margins as needed */
+}
